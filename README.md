@@ -1,4 +1,4 @@
-# 📖 Poet's Pad — Android App
+# 📖 FarazAI— Android App
 
 > *A creative space designed for writers, poets, and thinkers.*
 
